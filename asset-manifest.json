@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/SWAPI_TEST/static/js/main.c051275e.js",
+    "main.js": "/SWAPI_TEST/static/js/main.dd4b8093.js",
     "index.html": "/SWAPI_TEST/index.html",
-    "main.c051275e.js.map": "/SWAPI_TEST/static/js/main.c051275e.js.map"
+    "main.dd4b8093.js.map": "/SWAPI_TEST/static/js/main.dd4b8093.js.map"
   },
   "entrypoints": [
-    "static/js/main.c051275e.js"
+    "static/js/main.dd4b8093.js"
   ]
 }
