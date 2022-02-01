@@ -16,6 +16,7 @@ import { Loader } from "shared/components/Loader";
 import { Skeleton } from "shared/components/Skeleton";
 
 export const Characters = () => {
+  //pull request test
   const [globalState, { getAllMovies, getAsyncUrls, getCharactersByMovieId }] =
     useContext(MoviesContext);
   const [selectedMovieUrl, setSelectedMovieUrl] = useState<string>("");
