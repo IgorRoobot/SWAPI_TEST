@@ -3,5 +3,6 @@
   "common.otherPleaseExplain": "sv test",
   "welcome.headline": "some",
   "welcome.text": "sv",
-  "other.translation": "this is sv translation"
+  "other.translation": "this is sv translation",
+  "test.sv.translation": "sv translation"
 }
